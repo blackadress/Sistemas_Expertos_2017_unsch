@@ -8,3 +8,5 @@ matplotlib
 seaborn
 sklearn
 jupyter notebook
+
+graphviz para hacer el grafico de un .dot a .png
